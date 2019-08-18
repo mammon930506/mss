@@ -1,0 +1,299 @@
+[
+  {
+    "name": "tab0",
+    "path": "/tab0",
+    "icon": "fa-cog",
+    "children": [
+      {
+        "name": "dashboard0",
+        "icon": "fa-cog",
+        "path": "/dashboard0",
+        "show": false
+      },
+      {
+        "name": "v0",
+        "icon": "fa-book",
+        "path": "/v0",
+        "show": false,
+        "children": [
+          {
+            "name": "v00",
+            "path": "/v00",
+            "show": false,
+            "children": [
+              {
+                "name": "v000",
+                "path": "/v000",
+                "show": false
+              },
+              {
+                "name": "v001",
+                "path": "/v001",
+                "show": false
+              },
+              {
+                "name": "v002",
+                "path": "/v002",
+                "show": false
+              },
+              {
+                "name": "v003",
+                "path": "/v003",
+                "show": false
+              },
+              {
+                "name": "v004",
+                "path": "/v004",
+                "show": false
+              },
+              {
+                "name": "v005",
+                "path": "/v005",
+                "show": false
+              }
+            ]
+          },
+          {
+            "name": "v01",
+            "path": "/v01",
+            "show": false
+          },
+          {
+            "name": "v02",
+            "path": "/v02",
+            "show": false
+          },
+          {
+            "name": "v03",
+            "path": "/v03",
+            "show": false
+          }
+        ]
+      },
+      {
+        "name": "v1",
+        "icon": "fa-pencil",
+        "path": "/v1",
+        "show": false,
+        "children": [
+          {
+            "name": "v10",
+            "path": "/v10",
+            "show": false
+          },
+          {
+            "name": "v11",
+            "path": "/v11",
+            "show": false
+          }
+        ]
+      },
+      {
+        "name": "v2",
+        "icon": "fa-pencil",
+        "path": "/v2",
+        "show": false,
+        "children": [
+          {
+            "name": "v20",
+            "path": "/v20",
+            "show": false
+          },
+          {
+            "name": "v21",
+            "path": "/v21",
+            "show": false
+          }
+        ]
+      },
+      {
+        "name": "v3",
+        "icon": "fa-book",
+        "path": "/v3",
+        "show": false,
+        "children": [
+          {
+            "name": "v30",
+            "path": "/v30",
+            "show": false
+          },
+          {
+            "name": "v31",
+            "path": "/v31",
+            "show": false,
+            "children": [
+              {
+                "name": "v310",
+                "path": "/v020",
+                "show": false
+              },
+              {
+                "name": "v311",
+                "path": "/v021",
+                "show": false
+              },
+              {
+                "name": "v312",
+                "path": "/v022",
+                "show": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "tab1",
+    "path": "/tab1",
+    "icon": "fa-pencil",
+    "children": [
+      {
+        "name": "dashboard1",
+        "path": "/dashboard1",
+        "show": false
+      },
+      {
+        "name": "f0",
+        "path": "/f0",
+        "show": false,
+        "children": [
+          {
+            "name": "f00",
+            "path": "/f00",
+            "show": false
+          },
+          {
+            "name": "f01",
+            "path": "/f01",
+            "show": false,
+            "children": [
+              {
+                "name": "f010",
+                "path": "/f010",
+                "show": false
+              },
+              {
+                "name": "f011",
+                "path": "/f011",
+                "show": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "f1",
+        "path": "/f1",
+        "show": false,
+        "children": [
+          {
+            "name": "f10",
+            "path": "/f10",
+            "show": false
+          },
+          {
+            "name": "f11",
+            "path": "/f11",
+            "show": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "tab2",
+    "path": "/tab2",
+    "icon": "fa-book",
+    "children": [
+      {
+        "name": "dashboard2",
+        "path": "/dashboard2",
+        "show": false
+      },
+      {
+        "name": "t0",
+        "path": "/t0",
+        "show": false,
+        "children": [
+          {
+            "name": "t00",
+            "path": "/t00",
+            "show": false
+          }
+        ]
+      },
+      {
+        "name": "t1",
+        "path": "/t1",
+        "show": false,
+        "children": [
+          {
+            "name": "t10",
+            "path": "/t10",
+            "show": false
+          },
+          {
+            "name": "t11",
+            "path": "/t11",
+            "show": false
+          }
+        ]
+      },
+      {
+        "name": "t2",
+        "path": "/t2",
+        "show": false,
+        "children": [
+          {
+            "name": "t20",
+            "path": "/t20",
+            "show": false
+          },
+          {
+            "name": "t21",
+            "path": "/t21",
+            "show": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "tab3",
+    "path": "/tab3",
+    "icon": "fa-camera",
+    "children": [
+      {
+        "name": "dashboard3",
+        "path": "/dashboard3",
+        "show": false
+      },
+      {
+        "name": "s0",
+        "path": "/s0",
+        "show": false,
+        "children": [
+          {
+            "name": "s00",
+            "path": "/s00",
+            "show": false
+          }
+        ]
+      },
+      {
+        "name": "s1",
+        "path": "/s1",
+        "show": false,
+        "children": [
+          {
+            "name": "s10",
+            "path": "/s10",
+            "show": false
+          }
+        ]
+      }
+    ]
+  }
+]
+
